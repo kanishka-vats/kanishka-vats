@@ -39,14 +39,6 @@
 
 <br>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka-vats&background=1a0000&border=FF4B2B&ring=FF4B2B&fire=FFC800&currStreakLabel=FFC800&currStreakNum=ffffff&sideLabels=e6e6e6&sideNums=ffffff&dates=cfa5a5" />
-</p>
-
-<br>
-
 <p align="center">
   <i>Building tools that are simple, useful, and well-crafted.</i>
 </p>
