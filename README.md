@@ -1,43 +1,52 @@
-# Kanishka Vats
+<h1 align="center">Kanishka Vats</h1>
 
-**Developer & Designer · Sophomore Engineering Student**
+<div align="center">
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kanishka-vats-709402314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kanishkavats479@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-I build software at the intersection of systems engineering and visual design. My focus is on creating thoughtful interfaces, performant utilities, and well-crafted interactive experiences. 
+<br>
 
-Currently exploring machine learning, agentic workflows, and open-source tooling within a Linux-driven development environment.
+### About Me
 
----
+| | |
+| :--- | :--- |
+| **Currently** | Building native Go utilities and exploring machine learning & agentic workflows |
+| **Working with** | Go, C++, and TypeScript as my main stack, with UI/UX prototyping in Figma |
+| **Focus** | Systems engineering, Data Structures & Algorithms, and bridging backend logic with visual design |
 
-## About
+<br>
 
-- **Engineering & Systems:** Actively developing backend and CLI utilities (including native Go-based tools like LeafPDF) and exploring IoT architectures for environmental management.
-- **UI/UX & Design:** Prototyping digital experiences (such as CHROMA) with a strong emphasis on clean aesthetics, user-centric design, and graphic illustration.
-- **Algorithms & Optimization:** Continuously deepening my foundation in Data Structures, Algorithms, and modular C++ programming.
-- **Workflow:** Daily driving Neovim and Linux to maintain a lean, highly customized development workspace.
+### Tech Stack
 
-## Tech Stack
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=go" width="48px" alt="Go" /><br>Go</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48px" alt="C++" /><br>C++</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="48px" alt="TypeScript" /><br>TypeScript</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=py" width="48px" alt="Python" /><br>Python</td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=svelte" width="48px" alt="Svelte" /><br>Svelte</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="48px" alt="Tailwind" /><br>Tailwind</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=figma" width="48px" alt="Figma" /><br>Figma</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=blender" width="48px" alt="Blender" /><br>Blender</td>
+    </tr>
+  </table>
+</div>
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
 
-### Web & Interactive
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+### GitHub Activity
 
-### Design & Environment
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
----
+<br>
 
-## Current Focus
-
-I enjoy bridging the gap between highly technical backend logic and front-end creative computing. Whether drafting UI wireframes, structuring efficient data algorithms, or balancing project work with a solid gym routine, I am always learning, building, and exploring new ways to make software better.
+<p align="center">
+  <i>Building tools that are simple, useful, and well-crafted.</i>
+</p>
